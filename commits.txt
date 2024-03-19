@@ -1,0 +1,74 @@
+commit 6b12c4a65a2c4ba5df946067109d9f17250c2ec1
+Author: RJDdd <cdmx2605@amerike.edu.mx>
+Date:   Tue Mar 19 09:49:43 2024 -0600
+
+    agregrando commits.txt
+
+commit c77d585ab45f2b2d6bbc03eb9a0691234b57a67b
+Merge: 3cb9433 cf2b9a0
+Author: RJDdd <cdmx2605@amerike.edu.mx>
+Date:   Tue Mar 19 09:45:08 2024 -0600
+
+    Merge branch 'Proyecto_Semestral_Desarrollo_de_Aplicaciones_Interactivas'
+
+commit cf2b9a0cefc0b36ee41348d7f926e6a370bbafca
+Author: RJDdd <cdmx2605@amerike.edu.mx>
+Date:   Tue Mar 19 09:41:30 2024 -0600
+
+    giMerge branch 'Programación_en_Lenguajes_Interpretados'
+
+commit 3cb94331e8d39973c64e381b3d96c6907ad28fc4
+Author: RJDdd <cdmx2605@amerike.edu.mx>
+Date:   Wed Mar 13 11:37:49 2024 -0600
+
+    Areglando sintaxis
+
+commit bc576ec749b372edba2fcb92dbc4a5d98a9f6c52
+Author: RJDdd <cdmx2605@amerike.edu.mx>
+Date:   Wed Mar 13 11:36:10 2024 -0600
+
+    Agregando materia Programación en Lenguajes Interpretados
+
+commit efa7abfb8700ce2f265e68c1b337846f8d11b743
+Author: RJDdd <cdmx2605@amerike.edu.mx>
+Date:   Wed Mar 13 11:30:00 2024 -0600
+
+    Cambio
+
+commit ea2b743bc4e1f29dab8afbbe5cd79c4842105dbc
+Merge: 9a5d1a8 b10ce34
+Author: RJDdd <cdmx2605@amerike.edu.mx>
+Date:   Wed Mar 13 11:29:57 2024 -0600
+
+    Merge branch 'Principios_de_Composición_y_Diseño'
+
+commit b10ce34bdadb6987541f777952b3271b97898f3f
+Author: RJDdd <cdmx2605@amerike.edu.mx>
+Date:   Wed Mar 13 11:07:41 2024 -0600
+
+    Agregando materia Principios de Composición y Diseño
+
+commit 9a5d1a85988678b31f8e042bd1891580474d77b4
+Merge: 6a50fa7 c1a2eb4
+Author: RJDdd <cdmx2605@amerike.edu.mx>
+Date:   Wed Mar 13 11:06:32 2024 -0600
+
+    Agregando materia Diseño de Videojuegos
+
+commit c1a2eb430958accbf5264e6f429656a94872c0a4
+Author: RJDdd <cdmx2605@amerike.edu.mx>
+Date:   Wed Mar 13 11:01:41 2024 -0600
+
+    Agregando materia Diseño de Videojuegos
+
+commit 6a50fa7b9630136c5425df7498c41a412a9561d3
+Author: RJDdd <cdmx2605@amerike.edu.mx>
+Date:   Wed Mar 13 10:56:37 2024 -0600
+
+    Agregando ramas
+
+commit dec07d164d49fdb0aa312f4aecd67545a5f321e9
+Author: RJDdd <cdmx2605@amerike.edu.mx>
+Date:   Tue Mar 12 10:27:01 2024 -0600
+
+    first commit

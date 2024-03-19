@@ -43,3 +43,4 @@ i. ¿Cómo puedes ver el historial de tu repositorio?
 j. ¿Cuál es el propósito de una etiqueta? 
 
   No lo se. 
+  
